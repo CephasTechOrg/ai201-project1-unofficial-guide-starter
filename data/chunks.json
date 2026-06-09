@@ -1,0 +1,795 @@
+[
+  {
+    "text": "[r/LakemontU thread: \"CS 310 Algorithms — is Patel really as bad as people say? Any way around him?\" | original post by u/needto_grad]\nCS 310 Algorithms — is Patel really as bad as people say? Any way around him?\n\nRegistration is next week and Patel is the only prof teaching 310 this term. Reviews scare me. Is it survivable? Should I wait a semester for someone else?",
+    "metadata": {
+      "source": "reddit_algorithms_prof_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "post",
+      "professor": "",
+      "course": "",
+      "extra": "CS 310 Algorithms — is Patel really as bad as people say? Any way around him?",
+      "chunk_index": 0
+    },
+    "id": "reddit_algorithms_prof_thread.txt::0"
+  },
+  {
+    "text": "[r/LakemontU thread: \"CS 310 Algorithms — is Patel really as bad as people say? Any way around him?\" | reply by u/survived_310]\nPatel is brilliant but disorganized — that part of the reviews is 100% true. Grades come back weeks late and the syllabus is fiction. BUT the curve at the end is real and generous. The median on our midterm was like 54 and most people still passed. If you do every practice problem he posts, the exams are variations of those. Don't wait, just go in prepared.\n\n↳ reply (u/needto_grad): The \"syllabus is fiction\" line is sending me. Ok, doing the practice problems religiously.",
+    "metadata": {
+      "source": "reddit_algorithms_prof_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/survived_310",
+      "chunk_index": 1
+    },
+    "id": "reddit_algorithms_prof_thread.txt::1"
+  },
+  {
+    "text": "[r/LakemontU thread: \"CS 310 Algorithms — is Patel really as bad as people say? Any way around him?\" | reply by u/mathisfun_not]\nReal talk: the thing that determines whether you survive Patel is whether you took Discrete (CS 210) with Bello first. His exams are all proofs and analysis, almost no coding. If your proof skills are weak you will drown. If you've got them, it's hard but doable.",
+    "metadata": {
+      "source": "reddit_algorithms_prof_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/mathisfun_not",
+      "chunk_index": 2
+    },
+    "id": "reddit_algorithms_prof_thread.txt::2"
+  },
+  {
+    "text": "[r/LakemontU thread: \"CS 310 Algorithms — is Patel really as bad as people say? Any way around him?\" | reply by u/coffee_overflow]\nForm a study group on day one. The content is gold but you cannot rely on lecture being organized, so you'll be teaching each other from the textbook and practice sets. I wouldn't have passed solo.",
+    "metadata": {
+      "source": "reddit_algorithms_prof_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/coffee_overflow",
+      "chunk_index": 3
+    },
+    "id": "reddit_algorithms_prof_thread.txt::3"
+  },
+  {
+    "text": "[r/LakemontU thread: \"CS 310 Algorithms — is Patel really as bad as people say? Any way around him?\" | reply by u/transfer_kid]\nIs there really no other section? Last year someone co-taught it. OP if you can push it a semester another prof might open up, but no guarantees and Patel's content prep is honestly the best if you can stomach the chaos.\n\n↳ reply (u/survived_310): Don't gamble on a hypothetical section. Take it now with a study group.",
+    "metadata": {
+      "source": "reddit_algorithms_prof_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/transfer_kid",
+      "chunk_index": 4
+    },
+    "id": "reddit_algorithms_prof_thread.txt::4"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | original post by u/sophomore_slump]\nBest CS electives to take senior year? (light-ish workload, actually useful)\n\nGraduating next year and want to fill my last two CS slots with stuff that's useful but won't kill me alongside my capstone. Already done with the core (210, 250, 310, 340). What's worth it?",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "post",
+      "professor": "",
+      "course": "",
+      "extra": "Best CS electives to take senior year? (light-ish workload, actually useful)",
+      "chunk_index": 0
+    },
+    "id": "reddit_cs_electives_thread.txt::0"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | reply by u/grad_in_3]\nCS 230 Web Dev with Mendez, hands down. Project-based, barely any exams, and you finish with a portfolio app that gets you interviews. It's a time sink but it's \"building cool stuff\" time, not \"crying over proofs\" time. Lenient grader too.\n\n↳ reply (u/sophomore_slump): This is what I was hoping to hear, signing up.\n\n↳ reply (u/anon_ee): Seconding Mendez. Best feedback of any prof, she literally reviews your pull requests.",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/grad_in_3",
+      "chunk_index": 1
+    },
+    "id": "reddit_cs_electives_thread.txt::1"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | reply by u/databae_]\nIf you want a real GPA booster take CS 325 Databases with Brennan. Lectures are boring (just read the slides) but it's an easy A, open-book exams, and the SQL is genuinely useful for interviews. Pair it with something harder.",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/databae_",
+      "chunk_index": 2
+    },
+    "id": "reddit_cs_electives_thread.txt::2"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | reply by u/ml_or_bust]\nCounterpoint to the \"easy\" advice: if you can handle it, CS 420 Machine Learning with Tanaka is the most valuable elective in the catalog. NOT light workload though — you implement backprop from scratch and read 2-3 papers a week. Don't take it the same semester as your capstone.\n\n↳ reply (u/sophomore_slump): Yeah that's the opposite of light haha but tempting. Maybe if my capstone is chill.",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/ml_or_bust",
+      "chunk_index": 3
+    },
+    "id": "reddit_cs_electives_thread.txt::3"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | reply by u/justpassing]\nCS 350 Software Engineering with Halvorsen if you want the team/Agile experience for resumes. BUT your grade is basically one group project so it's a gamble on your teammates. Useful skills, frustrating logistics.",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/justpassing",
+      "chunk_index": 4
+    },
+    "id": "reddit_cs_electives_thread.txt::4"
+  },
+  {
+    "text": "[r/LakemontU thread: \"Best CS electives to take senior year? (light-ish workload, actually useful)\" | reply by u/lurker2021]\nAvoid stacking 340 (OS, Lindqvist) and 420 (ML, Tanaka) together unless you hate sleep. Both are 20-hour-a-week classes.",
+    "metadata": {
+      "source": "reddit_cs_electives_thread.txt",
+      "doc_type": "forum_thread",
+      "chunk_type": "comment",
+      "professor": "",
+      "course": "",
+      "extra": "u/lurker2021",
+      "chunk_index": 5
+    },
+    "id": "reddit_cs_electives_thread.txt::5"
+  },
+  {
+    "text": "[Prof. Aisha Bello | CS 210 Discrete Mathematics | RateMyProfessors profile]\nOverall quality 4.4/5. Would take again: 80%. Difficulty 3.7/5. Common student tags: CLEAR EXPLANATIONS, LOTS OF HOMEWORK, RESPECTED, CARING, EXAM HEAVY.",
+    "metadata": {
+      "source": "rmp_bello_cs210.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Aisha Bello",
+      "course": "CS 210 Discrete Mathematics",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_bello_cs210.txt::0"
+  },
+  {
+    "text": "[Prof. Aisha Bello | CS 210 Discrete Mathematics | RateMyProfessors review · Apr 2024 · quality 5.0/5, difficulty 3.5/5]\nBello explains proofs more clearly than any math professor I've had. Induction finally clicked for me in her class. The catch is the homework volume — weekly problem sets that take 4-6 hours. But every problem prepares you for the exams, which are fair. Do NOT take this class if you plan to skip the homework; it's 30% of the grade and the practice IS the learning.",
+    "metadata": {
+      "source": "rmp_bello_cs210.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Aisha Bello",
+      "course": "CS 210 Discrete Mathematics",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_bello_cs210.txt::1"
+  },
+  {
+    "text": "[Prof. Aisha Bello | CS 210 Discrete Mathematics | RateMyProfessors review · Jan 2024 · quality 4.0/5, difficulty 4.0/5]\nThe single most important class for surviving Algorithms with Patel later. Bello covers logic, sets, combinatorics, graphs, and proof techniques. Lots of homework but she curves the exams. Her office hours are packed for a reason — go early.",
+    "metadata": {
+      "source": "rmp_bello_cs210.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Aisha Bello",
+      "course": "CS 210 Discrete Mathematics",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_bello_cs210.txt::2"
+  },
+  {
+    "text": "[Prof. Aisha Bello | CS 210 Discrete Mathematics | RateMyProfessors review · Dec 2023 · quality 4.5/5, difficulty 3.5/5]\nClear, patient, and organized. Posts annotated lecture notes after every class. The proofs are the hard part — if you've never written one, the first three weeks are a shock, then it gets manageable. Take this before CS 310, you'll thank yourself.",
+    "metadata": {
+      "source": "rmp_bello_cs210.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Aisha Bello",
+      "course": "CS 210 Discrete Mathematics",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_bello_cs210.txt::3"
+  },
+  {
+    "text": "[Prof. Aisha Bello | CS 210 Discrete Mathematics | RateMyProfessors review · May 2023 · quality 4.0/5, difficulty 4.0/5]\nFair but a lot of work. The homework is graded for correctness, not completion, so partial answers don't get you far. Her exams reuse the structure of homework problems though, so grinding the problem sets pays off directly.",
+    "metadata": {
+      "source": "rmp_bello_cs210.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Aisha Bello",
+      "course": "CS 210 Discrete Mathematics",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_bello_cs210.txt::4"
+  },
+  {
+    "text": "[Prof. Michael Brennan | CS 325 Databases | RateMyProfessors profile]\nOverall quality 3.4/5. Would take again: 68%. Difficulty 2.3/5. Common student tags: EASY GRADER, LECTURE HEAVY, SKIP CLASS? YOU WON'T PASS NO, BORING, TEST HEAVY.",
+    "metadata": {
+      "source": "rmp_brennan_cs325.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Michael Brennan",
+      "course": "CS 325 Databases",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_brennan_cs325.txt::0"
+  },
+  {
+    "text": "[Prof. Michael Brennan | CS 325 Databases | RateMyProfessors review · Apr 2024 · quality 3.0/5, difficulty 2.0/5]\nEasy A but you'll be bored out of your mind. Brennan reads off the slides word for word. The good news: slides are posted, exams are open-book, and the SQL assignments are straightforward. If you want a chill upper-level credit, this is it. Just don't expect to be inspired.",
+    "metadata": {
+      "source": "rmp_brennan_cs325.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Michael Brennan",
+      "course": "CS 325 Databases",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_brennan_cs325.txt::1"
+  },
+  {
+    "text": "[Prof. Michael Brennan | CS 325 Databases | RateMyProfessors review · Feb 2024 · quality 4.0/5, difficulty 2.5/5]\nLectures are dry but the material is useful — normalization, indexing, transactions, query optimization. The final project (design a database for a fake company) was actually fun. Grading is lenient and he drops your lowest quiz. Solid GPA booster.",
+    "metadata": {
+      "source": "rmp_brennan_cs325.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Michael Brennan",
+      "course": "CS 325 Databases",
+      "extra": "Feb 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_brennan_cs325.txt::2"
+  },
+  {
+    "text": "[Prof. Michael Brennan | CS 325 Databases | RateMyProfessors review · Dec 2023 · quality 2.5/5, difficulty 2.0/5]\nContent is easy, delivery is painful. I stopped going to lecture and just read the slides — got an A. The SQL is the most practical thing you'll learn, so pay attention to the JOIN material. Everything else you can cram.",
+    "metadata": {
+      "source": "rmp_brennan_cs325.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Michael Brennan",
+      "course": "CS 325 Databases",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_brennan_cs325.txt::3"
+  },
+  {
+    "text": "[Prof. Michael Brennan | CS 325 Databases | RateMyProfessors review · May 2023 · quality 4.0/5, difficulty 2.0/5]\nUnderrated for how practical it is. I use the SQL I learned here every day at my internship. Brennan isn't exciting but he's fair and responsive over email. Take it if you want real-world skills without a brutal workload.",
+    "metadata": {
+      "source": "rmp_brennan_cs325.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Michael Brennan",
+      "course": "CS 325 Databases",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_brennan_cs325.txt::4"
+  },
+  {
+    "text": "[Prof. Gregory Halvorsen | CS 350 Software Engineering | RateMyProfessors profile]\nOverall quality 3.1/5. Would take again: 55%. Difficulty 3.2/5. Common student tags: GROUP PROJECTS, REAL WORLD, DISORGANIZED, LECTURE HEAVY, GROUP PROJECTS.",
+    "metadata": {
+      "source": "rmp_halvorsen_cs350.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Gregory Halvorsen",
+      "course": "CS 350 Software Engineering",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_halvorsen_cs350.txt::0"
+  },
+  {
+    "text": "[Prof. Gregory Halvorsen | CS 350 Software Engineering | RateMyProfessors review · Apr 2024 · quality 4.0/5, difficulty 3.0/5]\nThe content is genuinely useful — Agile, version control, testing, code review, working in a team. The problem is the entire grade rides on one semester-long group project, and if your team is bad, you're stuck. Halvorsen is hands-off, which is realistic but frustrating when teams fall apart. Pick your group carefully if you can.",
+    "metadata": {
+      "source": "rmp_halvorsen_cs350.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Gregory Halvorsen",
+      "course": "CS 350 Software Engineering",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_halvorsen_cs350.txt::1"
+  },
+  {
+    "text": "[Prof. Gregory Halvorsen | CS 350 Software Engineering | RateMyProfessors review · Jan 2024 · quality 2.5/5, difficulty 3.5/5]\nThe \"real world\" framing is nice in theory but the group project is a coin flip. My team had two people who never showed up and Halvorsen's response was basically \"that's how industry works.\" Peer evals help a little. If you get a good team this is an easy, useful A. If not, it's a nightmare.",
+    "metadata": {
+      "source": "rmp_halvorsen_cs350.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Gregory Halvorsen",
+      "course": "CS 350 Software Engineering",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_halvorsen_cs350.txt::2"
+  },
+  {
+    "text": "[Prof. Gregory Halvorsen | CS 350 Software Engineering | RateMyProfessors review · Dec 2023 · quality 3.5/5, difficulty 3.0/5]\nLectures on software process are dry but the project teaches you Git workflows, issue tracking, and writing tests — stuff no other class covers. Halvorsen could be more organized (deadlines moved around a lot), but the skills transferred directly to my internship.",
+    "metadata": {
+      "source": "rmp_halvorsen_cs350.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Gregory Halvorsen",
+      "course": "CS 350 Software Engineering",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_halvorsen_cs350.txt::3"
+  },
+  {
+    "text": "[Prof. Gregory Halvorsen | CS 350 Software Engineering | RateMyProfessors review · May 2023 · quality 3.0/5, difficulty 3.0/5]\nTake it for the team experience, not the lectures. The disorganization is real — the project requirements changed in week 8. But learning to deal with ambiguity and a messy codebase is arguably the point. Just don't take it the same semester as OS.",
+    "metadata": {
+      "source": "rmp_halvorsen_cs350.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Gregory Halvorsen",
+      "course": "CS 350 Software Engineering",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_halvorsen_cs350.txt::4"
+  },
+  {
+    "text": "[Prof. Sarah Lindqvist | CS 340 Operating Systems | RateMyProfessors profile]\nOverall quality 4.3/5. Would take again: 71%. Difficulty 4.4/5. Common student tags: HEAVY WORKLOAD, GREAT PROJECTS, RESPECTED, GET READY TO CODE, LECTURE HEAVY.",
+    "metadata": {
+      "source": "rmp_lindqvist_cs340.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Sarah Lindqvist",
+      "course": "CS 340 Operating Systems",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_lindqvist_cs340.txt::0"
+  },
+  {
+    "text": "[Prof. Sarah Lindqvist | CS 340 Operating Systems | RateMyProfessors review · Apr 2024 · quality 5.0/5, difficulty 5.0/5]\nThe workload is insane but I learned more in OS than in any other class. The projects are in C — you build a shell, a memory allocator, and a tiny scheduler. Each one took me 20+ hours. Lindqvist is an amazing lecturer though, very clear, and the projects are what make the class worth it. Start them the day they're assigned, not the weekend before.",
+    "metadata": {
+      "source": "rmp_lindqvist_cs340.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Sarah Lindqvist",
+      "course": "CS 340 Operating Systems",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_lindqvist_cs340.txt::1"
+  },
+  {
+    "text": "[Prof. Sarah Lindqvist | CS 340 Operating Systems | RateMyProfessors review · Jan 2024 · quality 4.0/5, difficulty 5.0/5]\nBe ready to live in the lab. The concurrency project broke me — race conditions everywhere. But the autograder gives good feedback and she allows two late days per project. Exams are fair and pull directly from lecture and the projects. Worth it if you want to actually understand how computers work.",
+    "metadata": {
+      "source": "rmp_lindqvist_cs340.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Sarah Lindqvist",
+      "course": "CS 340 Operating Systems",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_lindqvist_cs340.txt::2"
+  },
+  {
+    "text": "[Prof. Sarah Lindqvist | CS 340 Operating Systems | RateMyProfessors review · Dec 2023 · quality 4.5/5, difficulty 4.0/5]\nBest projects in the major. They're hard but they're real — you finish the class with a GitHub portfolio that gets you interviews. Lectures can be dense, so do the reading beforehand. She's very responsive on the course forum, often answers within an hour.",
+    "metadata": {
+      "source": "rmp_lindqvist_cs340.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Sarah Lindqvist",
+      "course": "CS 340 Operating Systems",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_lindqvist_cs340.txt::3"
+  },
+  {
+    "text": "[Prof. Sarah Lindqvist | CS 340 Operating Systems | RateMyProfessors review · May 2023 · quality 3.5/5, difficulty 5.0/5]\nFair warning: this is the hardest class in the CS core. If you're taking it alongside Algorithms with Patel, reconsider. The C debugging alone will eat your semester. Great prof, just respect the time commitment.",
+    "metadata": {
+      "source": "rmp_lindqvist_cs340.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Sarah Lindqvist",
+      "course": "CS 340 Operating Systems",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_lindqvist_cs340.txt::4"
+  },
+  {
+    "text": "[Prof. Elena Marsh | CS 201 Data Structures | RateMyProfessors profile]\nOverall quality 4.1/5. Would take again: 78%. Difficulty 3.9/5. Common student tags: TOUGH GRADER, EXAM HEAVY, LECTURE HEAVY, GET READY TO READ, RESPECTED.",
+    "metadata": {
+      "source": "rmp_marsh_cs201.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Elena Marsh",
+      "course": "CS 201 Data Structures",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_marsh_cs201.txt::0"
+  },
+  {
+    "text": "[Prof. Elena Marsh | CS 201 Data Structures | RateMyProfessors review · Mar 2024 · quality 5.0/5, difficulty 4.0/5]\nMarsh is hard but genuinely one of the best professors in the CS department. Her exams come straight from the lecture slides, not the textbook, so go to class and take notes. Midterms are curved, the final is not. If you keep up with the weekly problem sets you'll be fine, but if you fall behind two weeks in, it's almost impossible to recover. Attendance basically matters more than the readings.",
+    "metadata": {
+      "source": "rmp_marsh_cs201.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Elena Marsh",
+      "course": "CS 201 Data Structures",
+      "extra": "Mar 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_marsh_cs201.txt::1"
+  },
+  {
+    "text": "[Prof. Elena Marsh | CS 201 Data Structures | RateMyProfessors review · Nov 2023 · quality 4.0/5, difficulty 5.0/5]\nFair but brutal. The amount of material she covers is no joke. Linked lists, trees, hash tables, graphs — all in one semester with weekly coding assignments graded on an autograder. You WILL learn data structures. Office hours are a lifesaver, she explains recursion better than anyone. Just don't expect an easy A.",
+    "metadata": {
+      "source": "rmp_marsh_cs201.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Elena Marsh",
+      "course": "CS 201 Data Structures",
+      "extra": "Nov 2023",
+      "chunk_index": 2
+    },
+    "id": "rmp_marsh_cs201.txt::2"
+  },
+  {
+    "text": "[Prof. Elena Marsh | CS 201 Data Structures | RateMyProfessors review · May 2023 · quality 3.5/5, difficulty 4.0/5]\nKnows her stuff but moves fast. If you've never coded before this class will hurt. The autograder is unforgiving about edge cases and partial credit is rare on the programming assignments. That said, her exam reviews are clutch — she basically tells you the categories of problems that will show up.",
+    "metadata": {
+      "source": "rmp_marsh_cs201.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Elena Marsh",
+      "course": "CS 201 Data Structures",
+      "extra": "May 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_marsh_cs201.txt::3"
+  },
+  {
+    "text": "[Prof. Elena Marsh | CS 201 Data Structures | RateMyProfessors review · Dec 2022 · quality 4.5/5, difficulty 3.5/5]\nTook her after hearing she was scary and she's not bad at all if you do the work. Clear lectures, posts slides ahead of time, and the curve on midterms saved a lot of people. Big tip: the final is cumulative and NOT curved, so don't blow off the early units.",
+    "metadata": {
+      "source": "rmp_marsh_cs201.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Elena Marsh",
+      "course": "CS 201 Data Structures",
+      "extra": "Dec 2022",
+      "chunk_index": 4
+    },
+    "id": "rmp_marsh_cs201.txt::4"
+  },
+  {
+    "text": "[Prof. Carla Mendez | CS 230 Web Development | RateMyProfessors profile]\nOverall quality 4.6/5. Would take again: 89%. Difficulty 2.8/5. Common student tags: PROJECT HEAVY, CARING, CLEAR GRADING CRITERIA, GROUP PROJECTS, GIVES GOOD FEEDBACK.",
+    "metadata": {
+      "source": "rmp_mendez_cs230.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Carla Mendez",
+      "course": "CS 230 Web Development",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_mendez_cs230.txt::0"
+  },
+  {
+    "text": "[Prof. Carla Mendez | CS 230 Web Development | RateMyProfessors review · Apr 2024 · quality 5.0/5, difficulty 3.0/5]\nMendez's class is the most practical one I've taken. You build a full-stack app over the semester — React front end, Node/Express API, a real database. Grading is project-based, almost no exams, and her rubrics are crystal clear. She gives feedback like a code reviewer at a real company. Take it before you start applying for internships.",
+    "metadata": {
+      "source": "rmp_mendez_cs230.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Carla Mendez",
+      "course": "CS 230 Web Development",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_mendez_cs230.txt::1"
+  },
+  {
+    "text": "[Prof. Carla Mendez | CS 230 Web Development | RateMyProfessors review · Feb 2024 · quality 4.5/5, difficulty 3.0/5]\nLenient grading but you actually have to ship working projects. The group project in the second half can be hit or miss depending on your teammates, but she lets you peer-evaluate so freeloaders get docked. Lots of modern tooling — Git, CI, deployment to a cloud host. Very job-relevant.",
+    "metadata": {
+      "source": "rmp_mendez_cs230.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Carla Mendez",
+      "course": "CS 230 Web Development",
+      "extra": "Feb 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_mendez_cs230.txt::2"
+  },
+  {
+    "text": "[Prof. Carla Mendez | CS 230 Web Development | RateMyProfessors review · Dec 2023 · quality 4.0/5, difficulty 2.5/5]\nIf you like building things over taking tests, this is your class. Be warned it's a time sink even though it's not \"hard\" — the projects expand to fill whatever time you give them. Mendez is super approachable and responds to Slack messages fast.",
+    "metadata": {
+      "source": "rmp_mendez_cs230.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Carla Mendez",
+      "course": "CS 230 Web Development",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_mendez_cs230.txt::3"
+  },
+  {
+    "text": "[Prof. Carla Mendez | CS 230 Web Development | RateMyProfessors review · May 2023 · quality 5.0/5, difficulty 3.0/5]\nBest feedback of any professor I've had. She comments on your actual pull requests. The downside is the front-end material moves fast if you've never seen JavaScript. Do the optional warm-up assignment before week one.",
+    "metadata": {
+      "source": "rmp_mendez_cs230.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Carla Mendez",
+      "course": "CS 230 Web Development",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_mendez_cs230.txt::4"
+  },
+  {
+    "text": "[Prof. David Okonkwo | CS 101 Intro to Programming | RateMyProfessors profile]\nOverall quality 4.7/5. Would take again: 94%. Difficulty 2.1/5. Common student tags: CARING, BEGINNER FRIENDLY, CLEAR GRADING CRITERIA, INSPIRATIONAL, GIVES GOOD FEEDBACK.",
+    "metadata": {
+      "source": "rmp_okonkwo_cs101.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "David Okonkwo",
+      "course": "CS 101 Intro to Programming",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_okonkwo_cs101.txt::0"
+  },
+  {
+    "text": "[Prof. David Okonkwo | CS 101 Intro to Programming | RateMyProfessors review · Apr 2024 · quality 5.0/5, difficulty 2.0/5]\nIf you have never written a line of code in your life, take CS 101 with Okonkwo. He genuinely slows down for beginners and never makes you feel dumb for asking a basic question. The pace is gentle and the assignments build on each other. Grading is transparent — rubrics are posted before every assignment. Best first CS class you could ask for.",
+    "metadata": {
+      "source": "rmp_okonkwo_cs101.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "David Okonkwo",
+      "course": "CS 101 Intro to Programming",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_okonkwo_cs101.txt::1"
+  },
+  {
+    "text": "[Prof. David Okonkwo | CS 101 Intro to Programming | RateMyProfessors review · Jan 2024 · quality 4.5/5, difficulty 2.5/5]\nSuper kind and patient. The downside of how slow he goes is that if you already know how to code, you'll be bored for the first half of the semester. The feedback on assignments is detailed though — he leaves comments on your actual code explaining how to make it cleaner.",
+    "metadata": {
+      "source": "rmp_okonkwo_cs101.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "David Okonkwo",
+      "course": "CS 101 Intro to Programming",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_okonkwo_cs101.txt::2"
+  },
+  {
+    "text": "[Prof. David Okonkwo | CS 101 Intro to Programming | RateMyProfessors review · Dec 2023 · quality 5.0/5, difficulty 1.5/5]\nEasiest A in the department but you also actually learn. Quizzes are open-note, the final project is a small game in Python, and he gives tons of partial credit. Office hours are basically a free tutoring session. Cannot recommend enough for non-majors fulfilling a requirement.",
+    "metadata": {
+      "source": "rmp_okonkwo_cs101.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "David Okonkwo",
+      "course": "CS 101 Intro to Programming",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_okonkwo_cs101.txt::3"
+  },
+  {
+    "text": "[Prof. David Okonkwo | CS 101 Intro to Programming | RateMyProfessors review · Sep 2023 · quality 4.0/5, difficulty 2.0/5]\nGreat for beginners, a little too hand-holdy if you have experience. Lectures are mostly live coding which some people love and some find slow. Exams are easy if you did the labs.",
+    "metadata": {
+      "source": "rmp_okonkwo_cs101.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "David Okonkwo",
+      "course": "CS 101 Intro to Programming",
+      "extra": "Sep 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_okonkwo_cs101.txt::4"
+  },
+  {
+    "text": "[Prof. Rajesh Patel | CS 310 Algorithms | RateMyProfessors profile]\nOverall quality 3.2/5. Would take again: 51%. Difficulty 4.6/5. Common student tags: TOUGH GRADER, EXAM HEAVY, BEWARE OF POP QUIZZES, BRILLIANT, DISORGANIZED.",
+    "metadata": {
+      "source": "rmp_patel_cs310.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Rajesh Patel",
+      "course": "CS 310 Algorithms",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_patel_cs310.txt::0"
+  },
+  {
+    "text": "[Prof. Rajesh Patel | CS 310 Algorithms | RateMyProfessors review · Mar 2024 · quality 4.0/5, difficulty 5.0/5]\nPatel is a genius and you can tell he loves algorithms, but his class is disorganized. Lecture jumps around, the syllabus dates are wrong half the time, and assignments get posted late. BUT — if you can tolerate that, you'll learn more about dynamic programming and graph algorithms than any other prof will teach you. Exams are extremely hard; the median on our midterm was a 54.",
+    "metadata": {
+      "source": "rmp_patel_cs310.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Rajesh Patel",
+      "course": "CS 310 Algorithms",
+      "extra": "Mar 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_patel_cs310.txt::1"
+  },
+  {
+    "text": "[Prof. Rajesh Patel | CS 310 Algorithms | RateMyProfessors review · Dec 2023 · quality 2.0/5, difficulty 5.0/5]\nSmart but cannot teach. He explains a proof like you already understand it. The exams test edge cases he never covered in lecture. I went to every office hour and still struggled. The curve at the end is generous, which is the only reason people pass. Take it with someone else if you can.",
+    "metadata": {
+      "source": "rmp_patel_cs310.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Rajesh Patel",
+      "course": "CS 310 Algorithms",
+      "extra": "Dec 2023",
+      "chunk_index": 2
+    },
+    "id": "rmp_patel_cs310.txt::2"
+  },
+  {
+    "text": "[Prof. Rajesh Patel | CS 310 Algorithms | RateMyProfessors review · May 2023 · quality 3.5/5, difficulty 4.5/5]\nHard class, hard professor, but I respect him. His exams are all proof-and-analysis, almost no coding. If your discrete math is weak you will drown. Do every practice problem he posts — the real exam questions are variations of them. The curve saved my grade.",
+    "metadata": {
+      "source": "rmp_patel_cs310.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Rajesh Patel",
+      "course": "CS 310 Algorithms",
+      "extra": "May 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_patel_cs310.txt::3"
+  },
+  {
+    "text": "[Prof. Rajesh Patel | CS 310 Algorithms | RateMyProfessors review · Nov 2022 · quality 3.0/5, difficulty 5.0/5]\nDisorganized is an understatement. Grades posted weeks late, and he changed the exam date twice. Content is gold if you can survive the logistics. Bring a friend and form a study group, you'll need it.",
+    "metadata": {
+      "source": "rmp_patel_cs310.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Rajesh Patel",
+      "course": "CS 310 Algorithms",
+      "extra": "Nov 2022",
+      "chunk_index": 4
+    },
+    "id": "rmp_patel_cs310.txt::4"
+  },
+  {
+    "text": "[Prof. Thomas Reed | CS 250 Computer Architecture | RateMyProfessors profile]\nOverall quality 3.6/5. Would take again: 62%. Difficulty 3.5/5. Common student tags: ATTENDANCE MANDATORY, LECTURE HEAVY, FAIR, BORING, CLEAR GRADING CRITERIA.",
+    "metadata": {
+      "source": "rmp_reed_cs250.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Thomas Reed",
+      "course": "CS 250 Computer Architecture",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_reed_cs250.txt::0"
+  },
+  {
+    "text": "[Prof. Thomas Reed | CS 250 Computer Architecture | RateMyProfessors review · Apr 2024 · quality 4.0/5, difficulty 3.5/5]\nReed is dry but fair, and he's organized in a way Patel never is. Lectures are dense — pipelining, caches, assembly — but he posts clear notes. Heads up: attendance is graded with random in-class clicker questions, so you can't skip. Exams are predictable if you do the practice problems. Solid, if unexciting.",
+    "metadata": {
+      "source": "rmp_reed_cs250.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Thomas Reed",
+      "course": "CS 250 Computer Architecture",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_reed_cs250.txt::1"
+  },
+  {
+    "text": "[Prof. Thomas Reed | CS 250 Computer Architecture | RateMyProfessors review · Jan 2024 · quality 3.0/5, difficulty 3.5/5]\nThe material is genuinely interesting but Reed makes it feel like a chore. Monotone lectures, lots of slides. The clicker attendance thing is annoying if you have a commute. That said, his exams are exactly what he says they'll be — no surprises, partial credit is generous.",
+    "metadata": {
+      "source": "rmp_reed_cs250.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Thomas Reed",
+      "course": "CS 250 Computer Architecture",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_reed_cs250.txt::2"
+  },
+  {
+    "text": "[Prof. Thomas Reed | CS 250 Computer Architecture | RateMyProfessors review · Dec 2023 · quality 4.0/5, difficulty 3.0/5]\nFair grader, very predictable. If you show up and do the MIPS assembly assignments you'll do well. The cache and pipelining units are the hardest part of the exams. Reed isn't going to inspire you but you'll leave actually understanding how a CPU works.",
+    "metadata": {
+      "source": "rmp_reed_cs250.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Thomas Reed",
+      "course": "CS 250 Computer Architecture",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_reed_cs250.txt::3"
+  },
+  {
+    "text": "[Prof. Thomas Reed | CS 250 Computer Architecture | RateMyProfessors review · May 2023 · quality 3.5/5, difficulty 4.0/5]\nUnderrated prof, overrated difficulty if you attend. The reason people fail is the mandatory attendance — miss a few clicker days and your grade tanks before the final. Content-wise it's manageable. Sit near the front, the slides are tiny.",
+    "metadata": {
+      "source": "rmp_reed_cs250.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Thomas Reed",
+      "course": "CS 250 Computer Architecture",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_reed_cs250.txt::4"
+  },
+  {
+    "text": "[Prof. Yuki Tanaka | CS 420 Machine Learning | RateMyProfessors profile]\nOverall quality 4.5/5. Would take again: 73%. Difficulty 4.7/5. Common student tags: EXAM HEAVY, GET READY TO READ, INSPIRATIONAL, TOUGH GRADER, SO MANY PAPERS.",
+    "metadata": {
+      "source": "rmp_tanaka_cs420.txt",
+      "doc_type": "review_page",
+      "chunk_type": "profile",
+      "professor": "Yuki Tanaka",
+      "course": "CS 420 Machine Learning",
+      "extra": "overall ratings",
+      "chunk_index": 0
+    },
+    "id": "rmp_tanaka_cs420.txt::0"
+  },
+  {
+    "text": "[Prof. Yuki Tanaka | CS 420 Machine Learning | RateMyProfessors review · Apr 2024 · quality 5.0/5, difficulty 5.0/5]\nTanaka is demanding and research-heavy, but if you keep up it's the best class in the department. You implement everything from scratch in NumPy — linear regression, backprop, a small CNN — before you're allowed to touch PyTorch. The math prereqs are real; if your linear algebra is rusty, review it first. Office hours feel like grad seminars.",
+    "metadata": {
+      "source": "rmp_tanaka_cs420.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Yuki Tanaka",
+      "course": "CS 420 Machine Learning",
+      "extra": "Apr 2024",
+      "chunk_index": 1
+    },
+    "id": "rmp_tanaka_cs420.txt::1"
+  },
+  {
+    "text": "[Prof. Yuki Tanaka | CS 420 Machine Learning | RateMyProfessors review · Jan 2024 · quality 4.0/5, difficulty 5.0/5]\nHardest workload I've had but I came out able to actually read ML papers. Weekly problem sets mix proofs and coding. The final is a research-style project you present to the class. Tanaka holds you to a high standard and the feedback is blunt but useful. Not a class to take in a heavy semester.",
+    "metadata": {
+      "source": "rmp_tanaka_cs420.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Yuki Tanaka",
+      "course": "CS 420 Machine Learning",
+      "extra": "Jan 2024",
+      "chunk_index": 2
+    },
+    "id": "rmp_tanaka_cs420.txt::2"
+  },
+  {
+    "text": "[Prof. Yuki Tanaka | CS 420 Machine Learning | RateMyProfessors review · Dec 2023 · quality 4.5/5, difficulty 4.5/5]\nIf you want to do ML for real, this is the class. Be warned the from-scratch implementations are unforgiving — a single indexing bug in backprop cost me a weekend. But that's also why it sticks. Don't take it for an easy grade; take it to learn.",
+    "metadata": {
+      "source": "rmp_tanaka_cs420.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Yuki Tanaka",
+      "course": "CS 420 Machine Learning",
+      "extra": "Dec 2023",
+      "chunk_index": 3
+    },
+    "id": "rmp_tanaka_cs420.txt::3"
+  },
+  {
+    "text": "[Prof. Yuki Tanaka | CS 420 Machine Learning | RateMyProfessors review · May 2023 · quality 3.5/5, difficulty 5.0/5]\nBrilliant but assumes a lot. If you haven't taken a probability course you'll struggle with the Bayesian material. The reading load (2-3 papers a week) is no joke. Worth it for the project alone — mine ended up on my resume.",
+    "metadata": {
+      "source": "rmp_tanaka_cs420.txt",
+      "doc_type": "review_page",
+      "chunk_type": "review",
+      "professor": "Yuki Tanaka",
+      "course": "CS 420 Machine Learning",
+      "extra": "May 2023",
+      "chunk_index": 4
+    },
+    "id": "rmp_tanaka_cs420.txt::4"
+  }
+]
