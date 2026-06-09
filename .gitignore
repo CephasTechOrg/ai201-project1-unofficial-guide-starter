@@ -19,5 +19,6 @@ chroma/
 # macOS
 .DS_Store
 
-# Personal study guide — never commit
+# Personal study guides — never commit (for my eyes only)
 assignmentguide.md
+VIDEO_WALKTHROUGH.md
