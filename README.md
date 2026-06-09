@@ -9,31 +9,40 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**Student reviews of Computer Science professors at Lakemont University.** This system makes the
+real, student-to-student knowledge about CS courses searchable — teaching style, exam difficulty,
+workload, grading leniency, and which professors to take (or avoid) for a given course. Official
+course catalogs list a class's topics and credits but never tell you that Patel's exams are
+all proofs, that Okonkwo is the right first class for a non-coder, or that you shouldn't stack
+OS and ML in the same semester. That knowledge lives in scattered reviews and forum threads,
+is hard to search across, and is exactly what a grounded RAG system can surface.
+
+> Corpus note: documents are *synthetic* samples modeled on Rate My Professors pages and Reddit
+> threads (a fictional university avoids publishing negative claims about real professors, and
+> real RMP/Reddit content blocks scraping). The pipeline is source-agnostic — real `.txt`/PDF
+> files can be dropped into `documents/raw/` later. See [`documents/SOURCES.md`](documents/SOURCES.md).
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+12 documents in two formats (review pages + forum threads) for structural variety. Full index
+with notes: [`documents/SOURCES.md`](documents/SOURCES.md).
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #  | Source                                              | Type          | File path                                         |
+|----|-----------------------------------------------------|---------------|---------------------------------------------------|
+| 1  | RateMyProfessors — Prof. Elena Marsh (CS 201)       | Review page   | `documents/raw/rmp_marsh_cs201.txt`               |
+| 2  | RateMyProfessors — Prof. David Okonkwo (CS 101)     | Review page   | `documents/raw/rmp_okonkwo_cs101.txt`             |
+| 3  | RateMyProfessors — Prof. Rajesh Patel (CS 310)      | Review page   | `documents/raw/rmp_patel_cs310.txt`               |
+| 4  | RateMyProfessors — Prof. Sarah Lindqvist (CS 340)   | Review page   | `documents/raw/rmp_lindqvist_cs340.txt`           |
+| 5  | RateMyProfessors — Prof. Michael Brennan (CS 325)   | Review page   | `documents/raw/rmp_brennan_cs325.txt`             |
+| 6  | RateMyProfessors — Prof. Yuki Tanaka (CS 420)       | Review page   | `documents/raw/rmp_tanaka_cs420.txt`              |
+| 7  | RateMyProfessors — Prof. Carla Mendez (CS 230)      | Review page   | `documents/raw/rmp_mendez_cs230.txt`              |
+| 8  | RateMyProfessors — Prof. Thomas Reed (CS 250)       | Review page   | `documents/raw/rmp_reed_cs250.txt`                |
+| 9  | RateMyProfessors — Prof. Aisha Bello (CS 210)       | Review page   | `documents/raw/rmp_bello_cs210.txt`               |
+| 10 | RateMyProfessors — Prof. Gregory Halvorsen (CS 350) | Review page   | `documents/raw/rmp_halvorsen_cs350.txt`           |
+| 11 | r/LakemontU — "Best CS electives senior year?"      | Reddit thread | `documents/raw/reddit_cs_electives_thread.txt`    |
+| 12 | r/LakemontU — "Is Patel as bad as people say?"      | Reddit thread | `documents/raw/reddit_algorithms_prof_thread.txt` |
 
 ---
 

@@ -1,0 +1,34 @@
+RateMyProfessors.com  |  Home  |  Find a Professor  |  Add a Professor  |  Log In  |  Sign Up
+[Skip to main content]  Cookie notice: We use cookies to improve your experience. Accept All | Manage Preferences
+
+Professor Yuki Tanaka
+Department of Computer Science — Lakemont University
+Overall Quality: 4.5 / 5     Would take again: 73%     Level of Difficulty: 4.7 / 5
+
+[ ★ Rate Professor Tanaka ]   [ Compare ]   [ Share ]   [ Report this professor ]
+
+--- Top Tags ---
+EXAM HEAVY • GET READY TO READ • INSPIRATIONAL • TOUGH GRADER • SO MANY PAPERS
+
+================ STUDENT REVIEWS ================
+
+CS 420 - Machine Learning   |   Quality: 5.0   Difficulty: 5.0   |   Apr 2024
+Tanaka is demanding and research-heavy, but if you keep up it's the best class in the department. You implement everything from scratch in NumPy — linear regression, backprop, a small CNN — before you're allowed to touch PyTorch. The math prereqs are real; if your linear algebra is rusty, review it first. Office hours feel like grad seminars.
+👍 Helpful (39)   👎 Not helpful (4)   |   Reply | Share
+
+CS 420 - Machine Learning   |   Quality: 4.0   Difficulty: 5.0   |   Jan 2024
+Hardest workload I've had but I came out able to actually read ML papers. Weekly problem sets mix proofs and coding. The final is a research-style project you present to the class. Tanaka holds you to a high standard and the feedback is blunt but useful. Not a class to take in a heavy semester.
+👍 Helpful (30)   👎 Not helpful (2)   |   Reply | Share
+
+CS 420 - Machine Learning   |   Quality: 4.5   Difficulty: 4.5   |   Dec 2023
+If you want to do ML for real, this is the class. Be warned the from-scratch implementations are unforgiving — a single indexing bug in backprop cost me a weekend. But that's also why it sticks. Don't take it for an easy grade; take it to learn.
+👍 Helpful (27)   👎 Not helpful (1)   |   Reply | Share
+
+CS 420 - Machine Learning   |   Quality: 3.5   Difficulty: 5.0   |   May 2023
+Brilliant but assumes a lot. If you haven't taken a probability course you'll struggle with the Bayesian material. The reading load (2-3 papers a week) is no joke. Worth it for the project alone — mine ended up on my resume.
+👍 Helpful (21)   👎 Not helpful (3)   |   Reply | Share
+
+[ Load more reviews ]   [ Submit a Correction ]   [ Professors also viewed: R. Patel, S. Lindqvist ]
+
+Footer: About | Careers | Blog | Terms of Use | Privacy Policy | © 2024 RateMyProfessors LLC
+Was this page helpful? Yes / No   |   Follow us on social media   |   Download our app

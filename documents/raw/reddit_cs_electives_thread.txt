@@ -1,0 +1,33 @@
+r/LakemontU  •  Posted by u/sophomore_slump  •  7 mo. ago
+
+Best CS electives to take senior year? (light-ish workload, actually useful)
+
+Graduating next year and want to fill my last two CS slots with stuff that's useful but won't kill me alongside my capstone. Already done with the core (210, 250, 310, 340). What's worth it?
+
+Upvote 142  •  Downvote  •  87 Comments  •  Share  •  Save  •  Hide  •  Report
+
+────────────────────────────────────────────────
+
+▲ 96  u/grad_in_3   •  7 mo. ago
+CS 230 Web Dev with Mendez, hands down. Project-based, barely any exams, and you finish with a portfolio app that gets you interviews. It's a time sink but it's "building cool stuff" time, not "crying over proofs" time. Lenient grader too.
+   ↳ ▲ 31  u/sophomore_slump (OP)  •  7 mo. ago
+      This is what I was hoping to hear, signing up.
+   ↳ ▲ 18  u/anon_ee  •  7 mo. ago
+      Seconding Mendez. Best feedback of any prof, she literally reviews your pull requests.
+
+▲ 74  u/databae_  •  7 mo. ago
+If you want a real GPA booster take CS 325 Databases with Brennan. Lectures are boring (just read the slides) but it's an easy A, open-book exams, and the SQL is genuinely useful for interviews. Pair it with something harder.
+
+▲ 61  u/ml_or_bust  •  7 mo. ago
+Counterpoint to the "easy" advice: if you can handle it, CS 420 Machine Learning with Tanaka is the most valuable elective in the catalog. NOT light workload though — you implement backprop from scratch and read 2-3 papers a week. Don't take it the same semester as your capstone.
+   ↳ ▲ 22  u/sophomore_slump (OP)  •  7 mo. ago
+      Yeah that's the opposite of light haha but tempting. Maybe if my capstone is chill.
+
+▲ 40  u/justpassing  •  7 mo. ago
+CS 350 Software Engineering with Halvorsen if you want the team/Agile experience for resumes. BUT your grade is basically one group project so it's a gamble on your teammates. Useful skills, frustrating logistics.
+
+▲ 12  u/lurker2021  •  6 mo. ago
+Avoid stacking 340 (OS, Lindqvist) and 420 (ML, Tanaka) together unless you hate sleep. Both are 20-hour-a-week classes.
+
+[ View 79 more comments ]   Comments are locked. This thread has been archived.
+About • Help • Reddit Coins • Privacy Policy • Content Policy • © 2024 Reddit, Inc.
